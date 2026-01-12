@@ -73,7 +73,7 @@ export function Navbar() {
                   className="border-cyan text-cyan hover:bg-cyan/10 font-mono bg-transparent"
                   asChild
                 >
-                  <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+                  <a href="/SriManikanthMartha.pdf" target="_blank" rel="noopener noreferrer">
                     Resume
                   </a>
                 </Button>
